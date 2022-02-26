@@ -28,10 +28,6 @@
 
 
 
-<br>
-
-
-
 ## Crypto
 
 **博客**
@@ -133,6 +129,8 @@
 -   清华五道口：http://www.pbcsf.tsinghua.edu.cn/
 -   浑水：https://www.muddywatersresearch.com/
 -   前瞻研究学院：https://bg.qianzhan.com/
+-   arxiv：https://arxiv.org/
+-   
 
 
 
@@ -141,9 +139,20 @@
 ## 论坛
 
 -   淘股吧：https://www.taoguba.com.cn/
+
 -   方格子：https://vocus.cc/
+
 -   智堡：https://wisburg.com/
--   
+
+-   v2ex：https://v2ex.com/
+
+-   一亩三分地：https://www.1point3acres.com/
+
+-   摸鱼：https://momoyu.cc/
+
+-   hacknews：https://news.ycombinator.com/
+
+    
 
 
 
@@ -151,5 +160,70 @@
 
 ## 工具
 
+**股票**
+
 -   问财：http://www.iwencai.com/unifiedwap/home/index
--   
+-   投资收益率计算器：http://finance.sina.com.cn/money/283/2005/0708/19.html
+
+
+
+**日常**
+
+-   文件类型转换：https://convertio.co/zh/
+
+-   屏幕帧数测算：https://www.testufo.com/
+
+-   高清电影下载：https://proxyrarbg.org/threat_defence.php?defence=1&r=67557601
+
+-   流程图表格：https://www.processon.com/
+
+-   壁纸：https://wallhaven.cc/
+
+-   全历史：https://www.allhistory.com/
+
+-   临时文字：https://privnote.com/
+
+-   江苏大学信息门户：http://ehall.ujs.edu.cn/new/index.html
+
+-   你注册过哪些网站：https://www.reg007.com/
+
+-   美国地址生成器：https://www.meiguodizhi.com/
+
+-   找书：https://ebook2.lorefree.com/
+
+-   找书：https://www.jiumodiary.com/
+
+-   找书：http://www.gezhongshu.com/forum.php
+
+-   枫叶客户端：https://www.fenghost.net/
+
+    
+
+
+
+**前端**
+
+-   netlify：https://app.netlify.com/teams/archks/overview
+-   设计师 ： https://dribbble.com/
+-   图标：https://icomoon.io/
+-   图标：https://fontawesome.com/icons/bookmark?style=solid&s=solid
+-   图标：https://www.iconfont.cn/
+-   随机颜色：https://colorspark.app/gradients
+-   设计和实现：https://codepen.io/
+-   拟态：https://neumorphism.io/#e0e0e0
+-   button：https://cssbuttons.io/
+-   waves：https://getwaves.io/
+-   animation：https://animista.net/play/basic/flip-scale-2
+-   中国传统颜色：https://colors.ichuantong.cn/
+
+
+
+## 娱乐
+
+-   搭房子 https://oskarstalberg.com/Townscaper/#GSB0ZAhkT_EUX6Jn8Jou0TeH
+
+
+
+
+
+<p style="display: none; color: red; opacity: 0;">https://docs.google.com/document/d/1aCR_luOrVLKK1CvaQoG6z34Ae1mKdu8404ums_DVk3Q/edit</p>
