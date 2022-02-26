@@ -226,4 +226,3 @@
 
 
 
-<p style="display: none; color: red; opacity: 0;">https://docs.google.com/document/d/1aCR_luOrVLKK1CvaQoG6z34Ae1mKdu8404ums_DVk3Q/edit</p>
