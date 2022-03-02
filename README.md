@@ -1,8 +1,8 @@
 ---
--   UpdateTime： 2022年02月26日
+-   CreateTime： 2022年02月26日
 -   Author： Zendu
 -   Description： Collect Net Blog
-
+-   UpdateTime： 2022年03月02日
 ---
 
 
@@ -12,11 +12,17 @@
 **个人**
 
 -   面向信仰编程 https://draveness.me/
+
 -   CoolShell： https://coolshell.cn/featured
+
 -   张戈：https://zhangge.net/
+
 -   张鑫旭： https://www.zhangxinxu.com/wordpress/
+
 -   阮一峰： http://www.ruanyifeng.com/blog/javascript/
+
 -   Jerry：https://imququ.com/post/series.html
+
 -   囧克斯： https://jiongks.name/archives/
 
 
@@ -24,6 +30,7 @@
 **团队**
 
 -   美团技术： https://tech.meituan.com/
+
 -   腾讯AlloyTeam：http://www.alloyteam.com/page/0/
 
 
@@ -33,12 +40,19 @@
 **博客**
 
 -   MCDAO周报： https://mcdao.mirror.xyz/
+
 -   Bress：https://bress.xyz/
+
 -   AskMirror：https://askmirror.xyz/
+
 -   Gaobenpeng：https://mirror.xyz/gaobenpeng.eth
+
 -   链闻：https://mirror.xyz/0xchainnews.eth
+
 -   钻石手：https://holdon.gitbook.io/diamondhands/
+
 -   W3.Hitchhiker：https://mirror.xyz/0xE43a21Ee76b591fe6E479da8a8a388FCfea6F77F
+
 -   Xing：https://mirror.xyz/xing824.eth
 
 <br>
@@ -46,6 +60,7 @@
 **数据**
 
 -   Defi：https://defillama.com/
+
 -   Whale：
     -   https://glassnode.com/
     -   https://globalcoinresearch.com/
@@ -56,7 +71,9 @@
     -   https://dune.xyz/0xBi/0xBi
     
 -   Scan：https://etherscan.io/
+
 -   Learn：https://cs251.stanford.edu/
+
 -   链捕手：https://www.chaincatcher.com/
 
 
@@ -92,24 +109,35 @@
 **国内数据**
 
 -   生猪价格：https://zhujia.zhuwang.cc/
+
 -   猪易网：https://www.zhue.com.cn/
+
 -   估值分析：https://data.eastmoney.com/gzfx/scgk.html
+
 -   乌龟量化：https://wglh.com/
+
 -   宏观数据：https://data.eastmoney.com/cjsj/cpi.html
+
 -   熵数据：https://www.dydata.io/?channelCode=O9D63313&hmsr=zh-dy-0409
+
 -   东财数据中心：https://data.eastmoney.com/report/industry.jshtml
+
 -   前瞻眼：https://stock.qianzhan.com/hs/trade/s110101.html
+
 -   个股-网易数据：http://quotes.money.163.com/f10/zycwzb_300035.html#01c02
+
 -   巨潮咨询：http://www.cninfo.com.cn/new/index
+
 -   行查查：https://www.hanghangcha.com/
--   
 
 
 
 **国外数据**
 
 -   https://fred.stlouisfed.org/
+
 -   https://www.yardeni.com/
+
 -   https://www.macrotrends.net/1319/dow-jones-100-year-historical-chart
 
 
@@ -121,16 +149,24 @@
 ## 研报
 
 -   大数据导航：http://hao.199it.com/
+
 -   研报客：https://www.yanbaoke.com/index
+
 -   萝卜投研：https://robo.datayes.com/v2/selection
+
 -   发现研报：https://www.fxbaogao.com/
+
 -   QuestMobile：https://www.questmobile.com.cn/research/report-new
+
 -   阿里研究员：http://www.aliresearch.com/cn/index
+
 -   清华五道口：http://www.pbcsf.tsinghua.edu.cn/
+
 -   浑水：https://www.muddywatersresearch.com/
+
 -   前瞻研究学院：https://bg.qianzhan.com/
+
 -   arxiv：https://arxiv.org/
--   
 
 
 
@@ -204,16 +240,27 @@
 **前端**
 
 -   netlify：https://app.netlify.com/teams/archks/overview
+
 -   设计师 ： https://dribbble.com/
+
 -   图标：https://icomoon.io/
+
 -   图标：https://fontawesome.com/icons/bookmark?style=solid&s=solid
+
 -   图标：https://www.iconfont.cn/
+
 -   随机颜色：https://colorspark.app/gradients
+
 -   设计和实现：https://codepen.io/
+
 -   拟态：https://neumorphism.io/#e0e0e0
+
 -   button：https://cssbuttons.io/
+
 -   waves：https://getwaves.io/
+
 -   animation：https://animista.net/play/basic/flip-scale-2
+
 -   中国传统颜色：https://colors.ichuantong.cn/
 
 
@@ -221,6 +268,22 @@
 ## 娱乐
 
 -   搭房子 https://oskarstalberg.com/Townscaper/#GSB0ZAhkT_EUX6Jn8Jou0TeH
+
+
+
+
+## 教程
+
+-   Ruby语言圣经：https://course.rs/
+
+-   Go语言设计与实现：https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-compile-intro/
+
+
+
+
+
+
+
 
 
 
