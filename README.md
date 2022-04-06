@@ -1,4 +1,14 @@
 
+<details>
+    <summary>历史K线</summary>
+    <li>DJI：https://cn.tradingview.com/chart/OJzEeUAh/?symbol=DJ%3ADJI</li>
+    <li>NASDAQ：https://cn.tradingview.com/chart/OJzEeUAh/?symbol=TVC%3ANDQ</li>
+</details>
+
+
+
+---
+
 
 <details>
     <summary>历史研究</summary>
@@ -73,21 +83,6 @@
     <li>https://www.yardeni.com/</li>
     <li>https://www.macrotrends.net/1319/dow-jones-100-year-historical-chart</li>
 </details>
-
-
----
-
-<details>
-    <summary>Go</summary>
-    <li>go夜读：https://github.com/talkgo/night</li>
-    <li>go语言圣经：https://yar999.gitbook.io/gopl-zh/</li>
-    <li>go语言设计与实现：https://draveness.me/golang/</li>
-    <li>synk project: https://github.com/FrankFang/synk</li>
-    <li>synk project: https://juejin.cn/post/7018941979740340255</li>
-    <li>lorca framework：https://github.com/zserge/lorca</li>
-</details>
-
-
 
 ---
 
@@ -183,32 +178,11 @@
 
 
 
----
-
-<details>
-    <summary>教程</summary>
-    <li>Ruby语言圣经：https://course.rs/</li>
-    <li>Go语言设计与实现：https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-compile-intro/</li>
-</details>
-
-
-
-
 
 
 
 
 ---
-
-<details>
-    <summary>股票</summary>
-    <li>DJI：https://cn.tradingview.com/chart/OJzEeUAh/?symbol=DJ%3ADJI</li>
-    <li>NASDAQ：https://cn.tradingview.com/chart/OJzEeUAh/?symbol=TVC%3ANDQ</li>
-</details>
-
-
-
-
 
 
 
