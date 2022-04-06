@@ -1,4 +1,12 @@
 
+
+<details>
+    <summary>历史研究</summary>
+    <li>地图：https://www.ageeye.cn/</li>
+    <li>太史古卷：https://hisgeomap.com/</li>
+</details>
+
+
 <details>
     <summary>博客</summary>
     <li>面向信仰编程 https://draveness.me/</li>
